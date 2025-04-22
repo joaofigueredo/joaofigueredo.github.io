@@ -1,0 +1,26 @@
+
+
+.conteudo {
+    
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    background-color: #DCDCDC	;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.imagem{
+    width: 300px;
+    border-radius: 50%;
+}
+.titulo{
+    text-align: center;
+}
+.nomeTitulo{
+    text-align: center;
+}
+
+.links {
+    text-decoration: none;
+}
